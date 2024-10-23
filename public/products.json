@@ -1,0 +1,83 @@
+
+[
+  {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 59,
+      "description": "High-quality wireless Bluetooth headphones with noise-cancellation and a comfortable fit.",
+      "isFeature": true
+  },
+  {
+      "id": 2,
+      "name": "Smart LED TV 55 inch",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 499,
+      "description": "55-inch Smart LED TV with 4K resolution, HDR support, and integrated streaming apps.",
+      "isFeature": false
+  },
+  {
+      "id": 3,
+      "name": "Fitness Tracker Watch",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 89,
+      "description": "Track your daily steps, heart rate, and sleep patterns with this sleek fitness tracker watch.",
+      "isFeature": true
+  },
+  {
+      "id": 4,
+      "name": "Gaming Laptop",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 1199,
+      "description": "High-performance gaming laptop with an Intel i7 processor, 16GB RAM, and an RTX 3070 graphics card.",
+      "isFeature": false
+  },
+  {
+      "id": 5,
+      "name": "Portable Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 39,
+      "description": "Compact portable Bluetooth speaker with a 10-hour battery life and water-resistant design.",
+      "isFeature": false
+  },
+  {
+      "id": 6,
+      "name": "4K Action Camera",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 149,
+      "description": "Capture stunning 4K video and images with this durable, waterproof action camera.",
+      "isFeature": true
+  },
+  {
+      "id": 7,
+      "name": "Ergonomic Office Chair",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 199,
+      "description": "Comfortable ergonomic office chair with adjustable height and lumbar support.",
+      "isFeature": false
+  },
+  {
+      "id": 8,
+      "name": "Smartphone with 128GB Storage",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 699,
+      "description": "Latest smartphone model featuring a 6.5-inch OLED display and 128GB storage capacity.",
+      "isFeature": true
+  },
+  {
+      "id": 9,
+      "name": "Wireless Charging Pad",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 29,
+      "description": "Convenient wireless charging pad compatible with a variety of smartphones and devices.",
+      "isFeature": false
+  },
+  {
+      "id": 10,
+      "name": "Smart Thermostat",
+      "image": "https://i.ibb.co.com/RymDpmj/2151850785.jpg",
+      "price": 249,
+      "description": "Smart thermostat with Wi-Fi connectivity and voice control for easy temperature management.",
+      "isFeature": true
+  }
+]
